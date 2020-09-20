@@ -1,0 +1,16 @@
+data/*
+*.log
+*.bak
+*.fls
+*.aux
+*.bib
+*.bbi
+*.text
+*.txt
+*.xlsx
+*.pdf
+*.mat
+*.m
+**/__pycache__/*
+**/*.pyc
+**/*.ipynb_checkpoints
